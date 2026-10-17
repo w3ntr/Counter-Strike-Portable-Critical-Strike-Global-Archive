@@ -1,4 +1,4 @@
-# Critical Strike Portable / CS Mini - Preservation Archive
+Wa# Critical Strike Portable / CS Mini - Preservation Archive
 
 **Project focus:** Official Counter Strike Mini (CS Mini) and Critical Strike Portable (CSP) builds, maps and server infrastructure, 2011-2014 era.
 
@@ -101,7 +101,7 @@ Local root: `CSP_Archive/`
 
 **Game_Versions:** Clients only, no maps inside unless bundled by original uploader. Original filenames preserved where possible. `(fix)` / `(fixU)` suffix means the file was re-packed by later archivists to fix install on modern systems, original logic untouched.
 
-**Maps:** About 1000 files. Split by platform because Unity asset bundles are not cross-compatible. Android maps are usually `*.unity3dAndroid`, PC/Web are `*.unity3d` with different internal compression. `Rescued_Servers_Data` contains raw server dumps with original directory layout. `zip_contents.txt` (427 KB) is a full file listing of the external 16 GB archive for cross-checking. `final_servers_check.py` is our checker script.
+**Maps:** About 1000 files. Split by platform because Unity asset bundles are not cross-compatible. Android maps are usually `*.unity3dAndroid`, PC/Web are `*.unity3d` with different internal compression. `Rescued_Servers_Data` contains raw server dumps with original directory layout. `zip_contents.txt` (427 KB) is a full file listing of the external 16 GB archive for cross-checking.
 
 **Other:** 3D sources (`.dae` Collada, `.skp` SketchUp: `Blu_vs_Red`, `Counter-Strike`, `halo`, `COG(mymapa)` etc.), single `.unity3d` test files, `crossdomain.xml`, `cs_newbattlefield_2_no2side.dae`, `getMaps2.php` (0 KB stub, server returned empty on capture), `index.php` (312 KB saved listing), `liveenergy_backup.skp`. Useful for mappers and for rebuilding servers.
 
