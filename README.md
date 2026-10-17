@@ -1,7 +1,5 @@
 # Critical Strike Portable / CS Mini - Preservation Archive
 
-https://web.archive.org/web/20261017111031/http://usep-portable.servecounterstrike.com/server/maps/
-
 **Project focus:** Official Counter Strike Mini (CS Mini) and Critical Strike Portable (CSP) builds, maps and server infrastructure, 2011-2014 era.
 
 **What this is:** A community-led digital preservation project. We reconstructed the early history of the game from dead websites, Wayback Machine captures, decompiled clients and forum posts, and saved about 1000 maps and dozens of clients that were considered lost.
@@ -204,6 +202,7 @@ These are NOT ours, but we used them for cross-checking. Download them separatel
 * Carius Team map server videos and Drive/MediaFire in descriptions (search YouTube for Carius Team CSP, KiritoGtx CSP 2.07a PC)
 * Steam Workshop CSP map ports to CS:GO/CS2 (sometimes contain original .unity3d in description): https://steamcommunity.com/workshop/filedetails/?id=2739979492
 * Game portals with online builds: https://www.gameflare.com/online-game/cs-portable/
+* All Official maps from CS Portable: http://usep-portable.servecounterstrike.com/server/maps/
 
 ## 9. How to Run Old Builds
 
@@ -211,7 +210,7 @@ These are NOT ours, but we used them for cross-checking. Download them separatel
 
 **PC:** Most builds are portable. Unzip and run `.exe`. If missing `UnityPlayer.dll` or DirectX error, install DirectX 9.0c June 2010 and Visual C++ 2010 x86.
 
-**WebPlayer:** Install Unity Web Player 2.x/3.x from Archive.org snapshots of `unity3d.com/webplayer`. Use Internet Explorer 11, old Firefox ESR, or old Safari. Load local `.unity3d` via a simple HTTP server, not `file://`, otherwise `crossdomain.xml` blocks map loading.
+**WebPlayer:** Install Unity Web Player 2.x/3.x from Archive.org snapshots of `unity3d.com/webplayer`. Use Internet Explorer 11, old Firefox ESR, Flashpoint (Curations) or old Safari . Load local `.unity3d` via a simple HTTP server, not `file://`, otherwise `crossdomain.xml` blocks map loading.
 
 **iOS:** Historical IPA files only. Require old iTunes sideload or jailbreak on iOS 5/6 era devices. Included for preservation, not for daily use.
 
@@ -225,13 +224,11 @@ These are NOT ours, but we used them for cross-checking. Download them separatel
 ## 11. Credits
 
 * Lead researcher / archivist: w3ntr
-* Co-archivists / file providers: Holder Crowbar, DeadZoneGarry, MProG10
+* Co-archivists / file providers: Holder Crowbar, DeadZoneGarry, MProG10, LoFroGaming
 * Forum preservers: 4PDA users in topics 299057, 310315; XDA users from 2012 thread; Reddit r/DeadGames OP; MProG10; DeadZoneGarry; uploaders of csp_20261014
 * Video / server owners: Carius Team (Bakai), KiritoGtx
-* Reverse engineering and script help: Kimi, Deepseek
+* Reverse engineering and script help: Kimi, Gemini, Deepseek
 * Original game: Igor Levochkin, Studio OnMars / Critical Force
-
-If we missed your name, open an issue with proof of upload and we will add you.
 
 ## 12. License / Disclaimer
 
