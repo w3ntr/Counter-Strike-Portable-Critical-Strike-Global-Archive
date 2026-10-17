@@ -1,4 +1,4 @@
-Wa# Critical Strike Portable / CS Mini - Preservation Archive
+# Critical Strike Portable / CS Mini - Preservation Archive
 
 **Project focus:** Official Counter Strike Mini (CS Mini) and Critical Strike Portable (CSP) builds, maps and server infrastructure, 2011-2014 era.
 
