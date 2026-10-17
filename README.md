@@ -1,5 +1,7 @@
 # Critical Strike Portable / CS Mini - Preservation Archive
 
+https://web.archive.org/web/20261017111031/http://usep-portable.servecounterstrike.com/server/maps/
+
 **Project focus:** Official Counter Strike Mini (CS Mini) and Critical Strike Portable (CSP) builds, maps and server infrastructure, 2011-2014 era.
 
 **What this is:** A community-led digital preservation project. We reconstructed the early history of the game from dead websites, Wayback Machine captures, decompiled clients and forum posts, and saved about 1000 maps and dozens of clients that were considered lost.
